@@ -1,0 +1,12 @@
+// question ; correct answer ; wrong answer ; wrong answer ; wrong answer
+
+URL stands for? ; Uniform Resource Locator ; Universal Remote Locator ; Universal Resource Language  ; Uniform Resource Language
+The protocol used to provide security to e-mails? ; PGP  ; POP ; SNMP ;HTTP
+What is the purpose of a Denial of Service attack? ; To overload a system ; Exploit a weakness in the TCP/IP stack  ; To execute a Trojan on a system  ; To shutdown services by turning them off
+Data security threats include ; All above ; Privacy invasion ; Hardware protection ; Fraudulent manipulation of data
+Prevention of access to database by unauthorized users is referred to as ; Security ; Integrity ; Productivity  ; Reliability
+Authentication refers to ; All above ; Methods of restricting user access to the database ; Controlling access to portion of database ; Controlling the operation on the database
+What is used for database security? ; Data encryption  ; A view ; Finger print ; All above
+What are authentication methods needed? ; All above ; Lock inactive users ; Remove modules and services you don't need ; Permissions should be managed using groups or roles rather than granted directly
+What are types of attack? ; All above ; Phishing ; DDoS ; Hijacking
+Encryption and decryption provide secrecy, or confidentiality, but not ; All above ; Authentication ; Integrity ; Privacy

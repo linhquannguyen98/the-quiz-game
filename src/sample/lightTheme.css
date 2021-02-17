@@ -1,0 +1,67 @@
+.root {
+    -fx-background-color: #404040;
+}
+.game {
+    -fx-background-color: #404040;
+}
+
+.label {
+    -fx-text-fill: #d9d9d9;
+}
+
+.button {
+    -fx-padding: 5 22 5 22;   
+    -fx-background-radius: 0;
+    -fx-background-color: #d9d9d9;
+    -fx-text-fill: black;
+    -fx-font-size: 15px;
+}
+
+.button:hover {
+    -fx-background-color: #c7c7c7;
+}
+
+.button:pressed {
+  -fx-background-color: #a6a6a6;
+}
+
+.button:focused {
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;
+}
+
+.button:disabled {
+    -fx-opacity: 1;
+}
+
+.correct {
+    -fx-background-color: #006600;
+}
+
+.wrong {
+    -fx-background-color: #660000;
+}
+
+.dialog-pane > .header-panel {
+    -fx-background-color: #404040;
+}
+
+.dialog-pane {
+    -fx-background-color: #d9d9d9;
+}
+
+.dialog-pane > .content {
+    -fx-text-fill: #404040;
+}
+
+.dialog-pane .button {
+    -fx-text-fill: #d9d9d9;
+    -fx-background-color: #404040;
+}
+
+.dialog-pane .button:hover {
+    -fx-background-color: #737373;
+}
+#questionLabel{
+    -fx-text-fill: #d9d9d9;
+    -fx-font-size: 20px;
+}

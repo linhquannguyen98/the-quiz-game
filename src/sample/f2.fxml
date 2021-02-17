@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="571.0" prefWidth="921.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.F2">
+   <children>
+      <Label fx:id="questionLabel" alignment="CENTER" layoutX="3.0" layoutY="12.0" prefHeight="68.0" prefWidth="906.0">
+         <font>
+            <Font size="20.0" />
+         </font></Label>
+      <VBox layoutX="209.0" layoutY="109.0" prefHeight="440.0" prefWidth="705.0">
+         <children>
+            <Button fx:id="button1" mnemonicParsing="false" prefHeight="110.0" prefWidth="705.0" />
+            <Button fx:id="button2" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="110.0" prefWidth="705.0" />
+            <Button fx:id="button3" layoutX="10.0" layoutY="35.0" mnemonicParsing="false" prefHeight="110.0" prefWidth="705.0" />
+            <Button fx:id="button4" layoutX="10.0" layoutY="60.0" mnemonicParsing="false" prefHeight="110.0" prefWidth="705.0" />
+         </children>
+         <padding>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </padding>
+      </VBox>
+      <GridPane layoutX="14.0" layoutY="149.0" prefHeight="90.0" prefWidth="194.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label fx:id="questionNum" alignment="CENTER" contentDisplay="CENTER" prefHeight="27.0" prefWidth="190.0">
+               <font>
+                  <Font size="16.0" />
+               </font></Label>
+            <Label fx:id="scoreLabel" alignment="CENTER" contentDisplay="CENTER" prefHeight="40.0" prefWidth="190.0" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Italic" size="16.0" />
+               </font></Label>
+         </children>
+      </GridPane>
+      <Label fx:id="textF2" alignment="CENTER" layoutX="14.0" layoutY="302.0" prefHeight="50.0" prefWidth="177.0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label alignment="CENTER" layoutX="14.0" layoutY="265.0" prefHeight="50.0" prefWidth="169.0" text="Player's name" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold Italic" size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

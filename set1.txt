@@ -1,0 +1,13 @@
+// question ; correct answer ; wrong answer ; wrong answer ; wrong answer
+
+When was Linux invented? ; 1991 ; 2005 ; 1965 ; 1999
+What does the 'A' stand f1or in the term LAMP stack? ; Apache ; Ajax ; ActiveX ; ASP.NET
+Firefox was made by what community? ; Mozilla ; Apple ; IBM ; Oracle
+Which Linux OS is commonly recommended for beginners? ; Ubuntu ; Gentoo ; FreeBSD ; Fedora
+Which one of the following is open source? ; MySQL ; Windows ; iTunes ; Photoshop
+What is two-factor authentication (2FA)? ; A line of code that will be sent through SMS or email to confirm the authentication ; Users must enter password twice ; Users must enter 2 different passwords ; Users must login twice
+Choose the best password within answers ; 123m@nhlinH ; qhqjkweha ; 123456qwE ; monkeyking 
+What is Universal Plug and Play Protocol? ; A standard that uses Internet and Web protocol to enable devices ; A gaming device ; Another kind of Universal Plug and Play Protocol (HTTP) ; A game
+What can you suffer from being attacked? ; All above ; Stolen data ; Got other devices shut down or hacked ; Malwares and Blackmailed 
+What are the best practices for IoT security? ; Device security, network security, Data security, Web security ; Device security, network security ; Device security, network security, Data security ; Malware Defender
+
